@@ -14,7 +14,7 @@ Image Properties:
 -  labels: 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral 
 - The training set consists of 28,709 examples. The public test set consists of 3,589 examples. The private test set consists of another 3,589 examples.
 
-The 'data' folder contains the original 'fer2013.csv' file. It also contains the '.npy' files we saved for the following operation.
+You should download the 'fer2013.csv' file from the website above and put it in the 'data' folder.
 
 The 'images' folder contains some images we saved from 'FER2013' dataset for adversarial examples visiualization.
 
